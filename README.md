@@ -1,2 +1,2 @@
 # Public-keys
-public keys of our chatter app
+This repository contains the users public keys of the chatter app .
